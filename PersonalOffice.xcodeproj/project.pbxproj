@@ -129,6 +129,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		12799A52284E83E0004078D5 /* AdminPanel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AdminPanel;
+			sourceTree = "<group>";
+		};
 		12F8C10B2832345300F20445 = {
 			isa = PBXGroup;
 			children = (
@@ -152,6 +159,7 @@
 		12F8C1162832345300F20445 /* PersonalOffice */ = {
 			isa = PBXGroup;
 			children = (
+				12799A52284E83E0004078D5 /* AdminPanel */,
 				12F8C16A2832437900F20445 /* YAxis */,
 				12F8C161283242A200F20445 /* XAxis */,
 				12F8C157283241C200F20445 /* ChartsView */,
